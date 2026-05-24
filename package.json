@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
 
-  "homepage": "hh9309.github.io/distribution-function-gallery/",
+  "homepage": "//hh9309.github.io/distribution-function-gallery/",
 
   "scripts": {
     "dev": "vite",
