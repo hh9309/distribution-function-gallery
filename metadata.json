@@ -1,0 +1,6 @@
+{
+  "name": "概率分布画廊",
+  "description": "交互式基础概率分布直观可视化、参数动态调整、随机采样实验室与AI辅助教学系统",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
